@@ -1,0 +1,19 @@
+{
+  "name": "kails",
+  "version": "1.0.0",
+  "description": "Sails.js on Koa.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intilaqtn/kails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intilaqtn/kails/issues"
+  },
+  "homepage": "https://github.com/intilaqtn/kails#readme"
+}
